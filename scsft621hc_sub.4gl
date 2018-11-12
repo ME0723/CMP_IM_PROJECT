@@ -1,4 +1,4 @@
-# Prog. Version..: '5.25.02-11.03.23(00010)'     #12
+# Prog. Version..: '5.25.02-11.03.23(00010)'     #123
 #
 # Program name...: scsft621hcsub_sub.4gl
 # Description....: 提供scsft621hc.src.4gl使用的sub routine
@@ -12,6 +12,7 @@
 #180731 BY CMP.Geoffrey 增加自動開立 - 加工工單、發料單功能
 #180805 BY CMP.Geoffrey 增加還原開立 - 加工工單、發料單功能
 
+XXX
 DATABASE ds
  
 GLOBALS "../../../tiptop/config/top.global"
